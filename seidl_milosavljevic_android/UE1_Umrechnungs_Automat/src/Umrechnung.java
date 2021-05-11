@@ -2,7 +2,7 @@
 public class Umrechnung {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Done Auto-generated method stub
 		
 		int note5000 = 5000;
 		int note1000 = 1000;
@@ -21,6 +21,7 @@ public class Umrechnung {
 		int result = 0;
 		
 		int euroRate = 1376;
+		int franzi= 1996;
 		
 		
 		Out.print("5000 Schilling-Scheine: ");
@@ -40,7 +41,7 @@ public class Umrechnung {
 		count = In.readInt();
 		result = result + note100 * count;
 		
-		Out.print("50 Schilling-Scheine: ");
+		Out.print("50 Euro-Scheine: ");
 		count = In.readInt();
 		result = result + note50 * count;
 		
