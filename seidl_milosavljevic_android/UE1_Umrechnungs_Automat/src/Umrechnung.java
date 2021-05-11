@@ -4,6 +4,16 @@ public class Umrechnung {
 	public void thisIsANewMethod() { 
 		boolean conflict = true;
 	}
+	
+	public void thisIsANewMethod2() { 
+		int sowieso = 0;
+	}
+	
+	public void thisIsANewMethod3() { 
+		int asdf = 0;
+	}
+	
+
 
 
 	public static void main(String[] args) {
