@@ -1,7 +1,9 @@
 
 public class Umrechnung {
 	
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() { 
+		boolean conflict = false;
+	}
 
 
 	public static void main(String[] args) {
