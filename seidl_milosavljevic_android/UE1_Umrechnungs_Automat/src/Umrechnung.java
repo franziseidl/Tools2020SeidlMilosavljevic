@@ -2,7 +2,7 @@
 public class Umrechnung {
 	
 	public void thisIsANewMethod() { 
-		boolean conflict = false;
+		boolean conflict = true;
 	}
 
 
