@@ -4,6 +4,12 @@ public class Umrechnung {
 	public void thisIsANewMethod() { 
 		boolean conflict = false;
 	}
+	
+	public void thisIsANewMethod2() { 
+		int sowieso = 0;
+	}
+	
+
 
 
 	public static void main(String[] args) {
