@@ -9,6 +9,10 @@ public class Umrechnung {
 		int sowieso = 0;
 	}
 	
+	public void thisIsANewMethod3() { 
+		int asdf = 0;
+	}
+	
 
 
 
