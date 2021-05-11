@@ -1,7 +1,11 @@
 
 public class Umrechnung {
 	
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() { 
+	
+		boolean conflict = true // creating a conflict here..
+	
+	}
 
 
 	public static void main(String[] args) {
