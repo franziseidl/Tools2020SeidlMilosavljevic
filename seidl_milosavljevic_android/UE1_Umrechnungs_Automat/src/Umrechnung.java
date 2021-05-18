@@ -13,6 +13,9 @@ public class Umrechnung {
 		int asdf = 0;
 	}
 	
+	public void thisDoesNothing(){
+		System.out.println("I lied.");
+	}
 
 
 
